@@ -1,0 +1,27 @@
+h1 {
+	font-family: Impact;
+	color: #E6E6E6;
+	text-align: center;
+}
+
+body {
+	background-color: #6B2400;
+	background-image: url("https://38.media.tumblr.com/cb1967d34ded52316f18085f9e9ff0b9/tumblr_mtc86lKTmm1qjprfjo1_500.gif");
+}
+
+div {
+	border: 3px, solid black;
+	height: 600px;
+	width: 2000px;
+}
+
+p {
+	text-align: center;
+}
+
+marquee {
+	font-size: 97px;
+	color: lime;
+	font-family: "comic sans";
+	marquee-speed: fast;
+}
